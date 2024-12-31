@@ -59,6 +59,4 @@ For questions or support, contact:
 
 Name: Salma Amin Noureddin, Mark William
 
-Email: salmaamin2011@gmail.com, 
-
-GitHub: [Your GitHub Profile Link]
+Email: salmaamin2011@gmail.com, mark1william11@gmail.com
