@@ -62,10 +62,7 @@ Name: Salma Amin Noureddin, Mark William
 Email: salmaamin2011@gmail.com, mark1william11@gmail.com
 
 
-Some Screenshots of the game:
-
-![Screenshot 2025-01-01 151315](https://github.com/user-attachments/assets/244aaf91-04bd-4e9f-b194-3e83b55b3de2)
-
+Screenshots of the gameplay:
 
 ![Screenshot 2025-01-01 151359](https://github.com/user-attachments/assets/3a9fc934-30e9-420d-b5d5-6a9371e9755d)
 
