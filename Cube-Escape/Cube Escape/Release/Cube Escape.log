@@ -1,0 +1,10 @@
+﻿  CubeEscape.cpp
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(56,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(56,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(56,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating code
+  2 of 166 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cube Escape.vcxproj -> C:\Users\Salma\source\repos\Cube Escape\Release\Cube Escape.exe

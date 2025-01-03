@@ -1,0 +1,38 @@
+﻿  CubeEscape.cpp
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(80,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(80,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Salma\source\repos\Cube Escape\CubeEscape.cpp(80,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol __free_dbg
+CubeEscape.obj : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+CubeEscape.obj : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __CrtDbgReport
+CubeEscape.obj : error LNK2001: unresolved external symbol __CrtDbgReport
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol __CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __CrtDbgReport
+libcpmtd.lib(_tolower.obj) : error LNK2019: unresolved external symbol __calloc_dbg referenced in function __Getctype
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol __calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2019: unresolved external symbol __wcsdup_dbg referenced in function __Getctype
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: unresolved external symbol __wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: unresolved external symbol __realloc_dbg referenced in function "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned int)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPAV123@PAVfacet@23@I@Z)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2019: unresolved external symbol __CrtDbgReportW referenced in function __freea_crt
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol __CrtDbgReportW
+C:\Users\Salma\source\repos\Cube Escape\Debug\Cube Escape.exe : fatal error LNK1120: 7 unresolved externals

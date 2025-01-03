@@ -1,0 +1,17 @@
+﻿CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutBitmapCharacter
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardUpFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutSolidCube
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutSpecialFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutSpecialUpFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+CubeEscape.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\Salma\source\repos\Cube Escape\x64\Release\Cube Escape.exe : fatal error LNK1120: 16 unresolved externals
